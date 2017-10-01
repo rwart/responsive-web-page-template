@@ -1,0 +1,2 @@
+# Responsive web page template
+
