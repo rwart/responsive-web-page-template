@@ -1,0 +1,25 @@
+{
+  "name": "responsive-web-page-template",
+  "version": "1.0.0",
+  "description": "Responsive web page template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwart/responsive-web-page-template.git"
+  },
+  "author": "rwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwart/responsive-web-page-template/issues"
+  },
+  "homepage": "https://github.com/rwart/responsive-web-page-template#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
